@@ -6,15 +6,17 @@ featured: true
 draft: false
 tags:
   - Personal
-  - Data
   - AI
-description: A short introduction to Zhanbo Hua, StellarStay, and the topics explored here.
+  - Research
+description: A short introduction to Zhanbo Hua, StellarStay, and my research interests in agentic AI.
 timezone: Asia/Shanghai
 ---
 
 Hello, I am Zhanbo Hua, also known as **Vulcan626**.
 
-I focus on data engineering, analytics workflows, and practical AI applications. StellarStay is where I share project notes, experiments, and ideas that are useful in real engineering work.
+I am a data and AI researcher exploring the frontier of agentic AI. My research interests include Agentic RL, LLM evaluation, agent infrastructure, and autonomous driving.
+
+StellarStay is where I share research notes, experiments, and ideas from this work.
 
 ## Why StellarStay
 
@@ -24,5 +26,6 @@ The name means "a place where stars pause." I want this site to feel calm and fo
 
 - GitHub: [github.com/Vulcan626](https://github.com/Vulcan626)
 - Website: [vulcan626.github.io](https://vulcan626.github.io)
+- Email: [huazhanbo@gmail.com](mailto:huazhanbo@gmail.com)
 
-More technical notes will be published here.
+More research and engineering notes will be published here.
