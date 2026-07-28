@@ -12,7 +12,7 @@ description: A short introduction to Zhanbo Hua, StellarStay, and my research in
 timezone: Asia/Shanghai
 ---
 
-Hello, I am Zhanbo Hua, also known as **Vulcan626**.
+Hello, I am Zhanbo Hua.
 
 I am a data and AI researcher exploring the frontier of agentic AI. My research interests include Agentic RL, LLM evaluation, agent infrastructure, and autonomous driving.
 
