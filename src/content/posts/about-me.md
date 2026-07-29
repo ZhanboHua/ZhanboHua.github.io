@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 
 Hello, I am Zhanbo Hua.
 
-I am a data and AI researcher exploring the frontier of agentic AI. My research interests include Agentic RL, LLM evaluation, agent infrastructure, and autonomous driving.
+I am a researcher exploring the frontier of agentic AI. My research interests include Agentic RL, LLM evaluation, agent infrastructure, and autonomous driving.
 
 StellarStay is where I share research notes, experiments, and ideas from this work.
 
