@@ -24,8 +24,7 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
-      url: "https://github.com/Vulcan626/Vulcan626.github.io/edit/main/",
+      enabled: false,
     },
     search: "pagefind",
   },
