@@ -24,8 +24,8 @@ The name means "a place where stars pause." I want this site to feel calm and fo
 
 ## Find me
 
-- GitHub: [github.com/Vulcan626](https://github.com/Vulcan626)
-- Website: [vulcan626.github.io](https://vulcan626.github.io)
+- GitHub: [github.com/ZhanboHua](https://github.com/ZhanboHua)
+- Website: [zhanbohua.github.io](https://zhanbohua.github.io)
 - Email: [huazhanbo@gmail.com](mailto:huazhanbo@gmail.com)
 
 More research and engineering notes will be published here.

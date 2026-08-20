@@ -2,12 +2,12 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://vulcan626.github.io/",
+    url: "https://zhanbohua.github.io/",
     title: "StellarStay",
     description:
       "Zhanbo Hua's notes on data, AI, engineering, and ideas worth keeping.",
     author: "Zhanbo Hua",
-    profile: "https://github.com/Vulcan626",
+    profile: "https://github.com/ZhanboHua",
     ogImage: "default-og.png",
     lang: "en",
     timezone: "Asia/Shanghai",
@@ -29,7 +29,7 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github", url: "https://github.com/Vulcan626" },
+    { name: "github", url: "https://github.com/ZhanboHua" },
   ],
   shareLinks: [
     { name: "x", url: "https://x.com/intent/post?url=" },
